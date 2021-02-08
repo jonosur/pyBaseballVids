@@ -1,0 +1,4 @@
+PyChromecast
+PyQt5
+requests
+wget
