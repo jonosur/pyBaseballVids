@@ -1,4 +1,4 @@
-# pyHockeyVids
+# pyBaseballVids
 
 [![Language](https://img.shields.io/badge/language-Python-green.svg?style=for-the-badge)](http://www.python.org)
 [![MIT](https://shields.io/badge/license-MIT-green?style=for-the-badge)](https://choosealicense.com/licenses/mit/)
