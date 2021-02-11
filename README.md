@@ -27,9 +27,7 @@ wget
 python3 main.py
 ```
 
-![main application](https://i.imgur.com/ZAHi68O.png)
-
-![settings](https://i.imgur.com/YrLLUop.png)
+![main application](https://imgur.com/4wWcDMT.png)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
