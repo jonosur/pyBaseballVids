@@ -17,6 +17,7 @@ Make sure you have the following libraries installed in your environment, please
 ```bash
 PyChromecast
 PyQt5
+PyQtWebEngine
 requests
 wget
 ```
